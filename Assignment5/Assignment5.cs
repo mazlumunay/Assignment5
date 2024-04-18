@@ -1,4 +1,5 @@
-﻿class Mail
+// Mazlum Unay c0885585 FSDT 
+class Mail
 {
     public double Weight { get; }
 
